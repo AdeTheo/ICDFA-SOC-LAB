@@ -1,1 +1,8 @@
+CSA303 Lab 2 – Splunk Incident Investigation
+Overview
 
+This repository contains my CSA303 Digital Forensics and Incident Response Lab 2, 
+which focused on investigating a historical cybersecurity incident using Splunk 
+Enterprise and the BOTS v3 dataset. The objective was to identify suspicious activity, 
+perform cross-source correlation, reconstruct the incident timeline, and develop a detection 
+prototype based on the investigation findings.
