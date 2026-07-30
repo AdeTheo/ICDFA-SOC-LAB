@@ -25,7 +25,6 @@ The investigation involved:
 - 📊 Dashboard Screenshots
 - 💻 Splunk SPL Searches
 - 📅 Incident Timeline
-- 🚨 Detection Prototype Documentation
 
 ---
 
